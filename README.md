@@ -1,4 +1,4 @@
-# Stars Integration Testing
+# Laravel / Dusk / Breeze / Sail - Base Setup
 
 This project uses Laravel Sail instead of a local PHP/MySQL environment or Valet.
 
